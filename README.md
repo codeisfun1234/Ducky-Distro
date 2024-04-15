@@ -1,3 +1,3 @@
 # Ducky-Distro
-A Debian based Linux distro named Ducky
+A distro named Ducky
 # Help Wanted
